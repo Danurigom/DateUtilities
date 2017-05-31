@@ -13,7 +13,7 @@ let package = Package(
     name: "YOUR_PROJECT_NAME",
     targets: [],
     dependencies: [
-        .Package(url: "https://github.com/Danurigom/iOS-NSDate-Utilities.git", majorVersion: 1, minor: 0)
+        .Package(url: "https://github.com/Danurigom/DateUtilities.git", majorVersion: 1)
     ]
 )
 ```
